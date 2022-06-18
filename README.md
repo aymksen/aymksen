@@ -1,9 +1,6 @@
-# Hi there, I'm Aymen - aka [aymks][youtube] 👋
+# Hi there, I'm Aymen - aka [aymks][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://aymks.github.io/MyPortfolio/)
-
-[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
-[![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
+[![Website](https://img.shields.io/website?label=My%20website&style=for-the-badge&url=https%3A%2F%2Faymks.github.io%2FMyPortfolio%2F)](https://aymks.github.io/MyPortfolio/)
 
 ### Connect with me:
 
