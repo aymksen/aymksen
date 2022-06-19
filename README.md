@@ -2,8 +2,6 @@
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
-[![Website](https://img.shields.io/website?label=My%20website&style=for-the-badge&url=https%3A%2F%2Faymks.github.io%2FMyPortfolio%2F)](https://aymks.github.io/MyPortfolio/)
-
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://aymks.github.io/MyPortfolio#gh-light-mode-only)
@@ -55,6 +53,5 @@
 
 [website]: https://aymks.github.io/MyPortfolio/
 [twitter]: https://twitter.com/
-[youtube]: https://youtube.com/
 [instagram]: https://instagram.com/aymksen
 [linkedin]: https://linkedin.com/in/aymksen
