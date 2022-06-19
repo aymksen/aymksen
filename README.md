@@ -36,20 +36,18 @@
 <br />
 <br />
 
----
-
 <div align="center">
 
 ![aymks's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aymks&theme=nord_dark)
 
 </div>
 
-<details>
+<!-- <details>
   <summary> GitHub Stats</summary>
 
   <img align="left" alt="aymks's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aymks&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-</details>
+</details> -->
 
 [website]: https://aymks.github.io/MyPortfolio/
 [twitter]: https://twitter.com/
