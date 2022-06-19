@@ -40,7 +40,9 @@
 
 ---
 
+<div align="center">
 ![aymks's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aymks&theme=nord_dark)
+</div>
 
 <details>
   <summary> GitHub Stats</summary>
