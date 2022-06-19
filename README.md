@@ -36,6 +36,7 @@
 <br />
 <br />
 
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 <div align="center">
 
 ![aymks's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aymks&theme=nord_dark)
