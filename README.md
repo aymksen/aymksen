@@ -7,8 +7,8 @@
 [![website](./img/globe-light.svg)](https://aymks.github.io/MyPortfolio#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://aymks.github.io/MyPortfolio#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/Aymksen#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/Aymksen#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/aymksen#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/aymksen#gh-dark-mode-only)
