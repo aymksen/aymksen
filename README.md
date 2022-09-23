@@ -4,8 +4,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://aymks.github.io/MyPortfolio#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://aymks.github.io/MyPortfolio#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://aymksen.github.io/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://aymksen.github.io/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/Aymksen#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/Aymksen#gh-dark-mode-only)
@@ -36,18 +36,18 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="auto"/>
 <div align="center">
 
-![aymks's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aymks&theme=nord_dark)
+![aymks's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aymksen&theme=nord_dark)
 
 </div>
 
 <!-- <details>
   <summary> GitHub Stats</summary>
 
-  <img align="left" alt="aymks's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aymks&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="aymksen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aymksen&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details> -->
 
-[website]: https://aymks.github.io/MyPortfolio/
-[twitter]: https://twitter.com/
+[website]: https://aymksen.github.io/
+[twitter]: https://twitter.com/aymksen
 [instagram]: https://instagram.com/aymksen
 [linkedin]: https://linkedin.com/in/aymksen
