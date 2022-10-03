@@ -38,9 +38,6 @@
 <div align="center">
 
 ![aymks's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aymksen&theme=nord_dark)
-  <br />
-  <br />
-![Profile views](https://gpvc.arturio.dev/aymksen) 
 </div>
 
 <!-- <details>
