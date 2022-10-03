@@ -38,14 +38,14 @@
 <div align="center">
 
 ![aymks's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aymksen&theme=nord_dark)
-
+![Profile views](https://gpvc.arturio.dev/aymksen) 
 </div>
 
 <!-- <details>
   <summary> GitHub Stats</summary>
 
   <img align="left" alt="aymksen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aymksen&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-![Profile views](https://gpvc.arturio.dev/aymksen) 
+
 </details> -->
 
 [website]: https://aymksen.github.io/
