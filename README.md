@@ -30,6 +30,8 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/76121581/193797333-583305c0-96d3-4e4f-979e-ab88743d799a.png" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/76121581/193797438-a496f6d0-8e24-4f39-a6f3-f51628429947.png" style="padding-right:10px;" />
 
 <br />
 <br />
@@ -51,3 +53,4 @@
 [twitter]: https://twitter.com/aymksen
 [instagram]: https://instagram.com/aymksen
 [linkedin]: https://linkedin.com/in/aymksen
+
