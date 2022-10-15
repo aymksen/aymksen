@@ -5,8 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=4000&lines=I%27m+a+front-end+developer+%F0%9F%92%BB)](https://github.com/aymksen)
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://aymksen.github.io/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://aymksen.github.io/#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://aymksen.github.io/)
+[![website](./img/globe-dark.svg)](https://aymksen.github.io/)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/Aymksen#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/Aymksen#gh-dark-mode-only)
