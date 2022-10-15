@@ -5,8 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=4000&lines=I%27m+a+front-end+developer+%F0%9F%92%BB)](https://github.com/aymksen)
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://aymksen.github.io#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://aymksen.github.io#gh-light-mode-only)
+[![website](./img/globe-light.svg)](https://aymksen.github.io/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://aymksen.github.io/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/Aymksen#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/Aymksen#gh-dark-mode-only)
@@ -17,8 +17,10 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/aymksen#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/aymksen#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/facebook-light.svg)](https://instagram.com/aymksen#gh-light-mode-only)
-[![website](./img/facebook-dark.svg)](https://instagram.com/aymksen#gh-dark-mode-only)
+[![website](./img/mail-dark.svg)](https://instagram.com/aymksen#gh-light-mode-only)
+[![website](./img/mail-light.svg)](https://instagram.com/aymksen#gh-dark-mode-only)
+
+&nbsp;&nbsp;
 
 ### Languages and Tools:
 
@@ -51,10 +53,3 @@
 
   <img align="left" alt="aymksen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aymksen&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-</details> -->
-
-<!-- [website]: https://aymksen.github.io/
-[twitter]: https://twitter.com/aymksen
-[instagram]: https://instagram.com/aymksen
-[linkedin]: https://linkedin.com/in/aymksen
- -->
