@@ -1,1 +1,9 @@
-<svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 14H4V8l8 5 8-5v10zm-8-7L4 6h16l-8 5z"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
+<defs>
+<image id="image11" width="24" height="24" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAA7klEQVRIie2VMQ6CQBBFF0sOYCi8iqHyGnoBQ6V3MaEVb6GFR7CzsIbOaK/PZkzGZRcW0cb4ExIy++c/mA2sMX+FCIiBDVDRXyVQALEGFB8ItlVoQCnFK5D1mEQmGQClXtC6yxsNOgRHwAq46SAXIFemHZAEhCfiRXpzL0Du58BZSidg0hA+Bo7ivQALO68G8DQuHeGZ70FaAVIbAlt7Xxzz3gMjq7cdIPXIsS/2vCNHXxhAret9eZm3x98NIJ4UOMiVtni7A7pI5wV/TO/qdwCVMcYA076BwExnPovf+F2vNSAWSNnSFKL6gfNXkx4Crw3k5pL6aQAAAABJRU5ErkJggg=="/>
+</defs>
+<g id="surface1">
+<use xlink:href="#image11"/>
+</g>
+</svg>
