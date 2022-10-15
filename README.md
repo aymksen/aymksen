@@ -17,8 +17,8 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/aymksen#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/aymksen#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/mail-light.svg)](https://instagram.com/aymksen#gh-light-mode-only)
-[![website](./img/mail-dark.svg)](https://instagram.com/aymksen#gh-dark-mode-only)
+[![website](./img/mail-dark.svg)](https://instagram.com/aymksen#gh-light-mode-only)
+[![website](./img/mail-light.svg)](https://instagram.com/aymksen#gh-dark-mode-only)
 
 &nbsp;&nbsp;
 
