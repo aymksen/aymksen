@@ -16,6 +16,9 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/aymksen#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/aymksen#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/gmail-light.svg)](https://instagram.com/aymksen#gh-light-mode-only)
+[![website](./img/gmail-dark.svg)](https://instagram.com/aymksen#gh-dark-mode-only)
 
 ### Languages and Tools:
 
