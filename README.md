@@ -14,6 +14,9 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/aymksen#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/aymksen#gh-dark-mode-only)
 &nbsp;&nbsp;
+[![website](./img/codepen-light.svg)](https://codepen.io/aymksen#gh-light-mode-only)
+[![website](./img/codepen-dark.svg)](https://codepen.io/aymksen#gh-dark-mode-only)
+&nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/aymksen#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/aymksen#gh-dark-mode-only)
 &nbsp;&nbsp;
