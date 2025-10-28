@@ -2,7 +2,7 @@
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="auto"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=4000&lines=I%27m+a+Frontend+Web+Developer+%F0%9F%92%BB)](https://github.com/aymksen)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=4000&lines=I%27m+a+Frontend+Web+Developer+%F0%9F%92%BB)](https://github.com/aymksen)-->
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://aymksen.github.io/#gh-light-mode-only)
@@ -55,4 +55,5 @@
   <summary> GitHub Stats</summary>
 
   <img align="left" alt="aymksen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aymksen&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
 
