@@ -20,7 +20,6 @@ Before all this I studied industrial automation, which is probably why I like th
 
 - Working student at **Tailorlux** in Münster, writing the Python and SQL tooling the team relies on
 - M.Sc. at the **University of Münster**
-- Tinkering with [my portfolio](https://github.com/aymksen/aymksen.github.io): Vite, React 19, TypeScript, Tailwind v4
 
 ### Toolbox
 
