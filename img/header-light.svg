@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Aymen Makhkhas, full-stack developer in Münster, Germany">
+  <defs>
+    <clipPath id="card"><rect width="1200" height="420" rx="32"/></clipPath>
+    <radialGradient id="g0"><stop offset="0" stop-color="#5e5ce6" stop-opacity="0.22"/><stop offset="1" stop-color="#5e5ce6" stop-opacity="0"/></radialGradient><radialGradient id="g1"><stop offset="0" stop-color="#0a84ff" stop-opacity="0.22"/><stop offset="1" stop-color="#0a84ff" stop-opacity="0"/></radialGradient><radialGradient id="g2"><stop offset="0" stop-color="#ff375f" stop-opacity="0.22"/><stop offset="1" stop-color="#ff375f" stop-opacity="0"/></radialGradient>
+    <linearGradient id="wave" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="900" y2="0" spreadMethod="repeat">
+      <stop offset="0.0000" stop-color="#0a84ff"/><stop offset="0.1667" stop-color="#5e5ce6"/><stop offset="0.3333" stop-color="#bf5af2"/><stop offset="0.5000" stop-color="#ff375f"/><stop offset="0.6667" stop-color="#ff9f0a"/><stop offset="0.8333" stop-color="#30d158"/><stop offset="1" stop-color="#0a84ff"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="900 0" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="420" fill="#f5f5f7"/>
+    <circle cx="180" cy="90" r="300" fill="url(#g0)"/><circle cx="1030" cy="120" r="280" fill="url(#g1)"/><circle cx="640" cy="470" r="260" fill="url(#g2)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="419" rx="31.5" fill="none" stroke="rgba(0,0,0,0.08)"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Inter, Helvetica, Arial, sans-serif" text-anchor="middle">
+    <rect x="410.0" y="92" width="380" height="36" rx="18" fill="rgba(255,255,255,0.75)" stroke="rgba(0,0,0,0.08)"/>
+    <g transform="translate(436.0 101) scale(0.75)" fill="none" stroke="#6e6e73" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 4.99-5.54 10.19-7.4 11.8a1 1 0 0 1-1.2 0C9.54 20.19 4 14.99 4 10a8 8 0 0 1 16 0"/><circle cx="12" cy="10" r="3"/></g>
+    <text x="610.0" y="115.5" font-size="15" font-weight="500" fill="#6e6e73">Münster, Germany · Software Developer</text>
+    <text x="600.0" y="228" font-size="88" font-weight="700" letter-spacing="-2.5" fill="url(#wave)">Aymen Makhkhas</text>
+    <text x="600.0" y="296" font-size="23" fill="#6e6e73">React and TypeScript on the front, Node, MySQL and Postgres on the back,</text>
+    <text x="600.0" y="330" font-size="23" fill="#6e6e73">and whatever gets it shipped in between.</text>
+  </g>
+</svg>

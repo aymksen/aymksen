@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="64" viewBox="0 0 130 64" role="img" aria-label="Email">
+  <defs>
+    <filter id="s" x="-20%" y="-40%" width="140%" height="180%"><feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#000" flood-opacity="0.10"/></filter>
+    <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.35"/><stop offset="0.5" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  </defs>
+  <g transform="translate(6 6)">
+    <rect width="118" height="48" rx="24.0" fill="#ffffff" stroke="rgba(0,0,0,0.08)" filter="url(#s)"/>
+    <rect x="1" y="1" width="116" height="24.0" rx="23.0" fill="url(#sheen)" opacity="0.5"/>
+    <g transform="translate(22 14) scale(0.83)" fill="none" stroke="#1d1d1f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></g>
+    <text x="50" y="29.5" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#1d1d1f">Email</text>
+  </g>
+</svg>
